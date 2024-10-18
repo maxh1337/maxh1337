@@ -15,7 +15,8 @@
 ## Hard skills 
 <tr><td valign="top" width="50%">
 
-
+<br/>
+<br/> 
 
 ### Frontend  
 <div align="center">  
@@ -32,7 +33,7 @@
 
 </td><td valign="top" width="50%">
 
-
+<br/> 
 
 ### Another  
 <div align="center">  
