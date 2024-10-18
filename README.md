@@ -6,7 +6,7 @@
 ### <div align="center">I'm Maksim, currently in my 4th year studying Information Security at University. 🚀</div>  
 
   
-- ⚡ I’m working as Fullstack-developer on<a href="https://profidraftgg.ru" target="_blank">profidraftgg.ru</a>.
+- ⚡ I’m working as Fullstack-developer on <a href="https://profidraftgg.ru" target="_blank">profidraftgg.ru</a>.
   
 
 <br/>  
