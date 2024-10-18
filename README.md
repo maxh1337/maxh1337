@@ -13,7 +13,7 @@
 
 
 ## Hard skills 
-<table><tr><td valign="top" width="50%">
+<table style="width: 100% !important;"><tr><td valign="top" width="50%">
 
 
 
