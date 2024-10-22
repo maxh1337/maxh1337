@@ -9,10 +9,12 @@
 - ⚡ I’m working as Fullstack-developer on <a href="https://profidraftgg.ru" target="_blank">profidraftgg.ru</a>.
 
   </br>
-  <div style="display: flex !important; align-items: center !important;">
-     <p style="margin: 0;">My codewars account - </p>
-    <a href="https://www.codewars.com/users/maxh1337" target="_blank"><img style="margin-left: 10px" src="https://www.codewars.com/users/maxh1337/badges/large" alt="JavaScript" width='355px'/></a>     
-  </div>
+<div dir="auto">
+My codewars account - 
+<a href="https://www.codewars.com/users/maxh1337" rel="nofollow">
+  <img src="https://www.codewars.com/users/maxh1337/badges/large" alt="JavaScript" width="355px" style="max-width: 100%;">
+</a>
+</div>
 
   
 
