@@ -8,7 +8,7 @@
   
 - ⚡ I’m working as Fullstack-developer on <a href="https://profidraftgg.ru" target="_blank">profidraftgg.ru</a>.
   <a href="https://www.codewars.com/users/maxh1337" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/maxh1337/badges/small"
- alt="JavaScript" height="55" /></a>  
+ alt="JavaScript" width='55px' /></a>  
 
   
 
