@@ -16,6 +16,10 @@ My codewars account -
 </a>
 </div>
 
+| My codewars account - | ![Codewars Badge](https://www.codewars.com/users/maxh1337/badges/large) |
+|-----------------------|-------------------------------------------------------------------------|
+
+
   
 
 <br/>  
