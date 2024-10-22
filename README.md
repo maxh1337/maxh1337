@@ -10,7 +10,7 @@
 
   </br>
   <div>
-     ⚡ My codewars account - 
+     <p>My codewars account - </p>
     <a href="https://www.codewars.com/users/maxh1337" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/maxh1337/badges/large" alt="JavaScript" width='355px'/></a>     
   </div>
 
