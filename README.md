@@ -9,12 +9,6 @@
 - ⚡ I’m working as Fullstack-developer on <a href="https://profidraftgg.ru" target="_blank">profidraftgg.ru</a>.
 
   </br>
-<div dir="auto">
-My codewars account - 
-<a href="https://www.codewars.com/users/maxh1337" rel="nofollow">
-  <img src="https://www.codewars.com/users/maxh1337/badges/large" alt="JavaScript" width="355px" style="max-width: 100%;">
-</a>
-</div>
 
 | My codewars account - | ![Codewars Badge](https://www.codewars.com/users/maxh1337/badges/large) |
 |-----------------------|-------------------------------------------------------------------------|
