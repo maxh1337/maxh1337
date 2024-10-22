@@ -9,13 +9,11 @@
 - ⚡ I’m working as Fullstack-developer on <a href="https://profidraftgg.ru" target="_blank">profidraftgg.ru</a>.
 
   </br>
+  </br>
 
 
 | My codewars - | ![Codewars Badge](https://www.codewars.com/users/maxh1337/badges/large) |
 |-----------------------|-------------------------------------------------------------------------|
-
-
-<br/>  
 
 
 ## Hard skills 
